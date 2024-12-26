@@ -1,6 +1,6 @@
 # CLI To-Do
 
-Terminal app developed in Go. Manage your todos.
+Terminal app developed in Go. Used <a href="https://github.com/spf13/cobra">cobra-cli</a> for CLI interactions. Used <a href="https://github.com/jedib0t/go-pretty">go-pretty</a> for printing results as a table view. Manage your todos in terminal!
 
 ## How to use
 
