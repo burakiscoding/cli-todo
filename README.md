@@ -26,7 +26,7 @@ Read todo by id:
 
 <hr>
 Update todo:
-(**--checked** parameter is true as default)
+(<strong>--checked</strong> parameter is true as default)
 
 ```bash
 ./cli-todo update --id=1 --title="Play some Fortnite OG"
